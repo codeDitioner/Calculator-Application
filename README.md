@@ -1,4 +1,9 @@
-# *Calculator*
+# Calculator
+
 Calculator written in Python with UI created from Tkinter library.
-## Video Walkthrough
+
+---
+
+### App Walkthrough GIF
+
 ![](https://i.imgur.com/dtEmrLF.gif)
